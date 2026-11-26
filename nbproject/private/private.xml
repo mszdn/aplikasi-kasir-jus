@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/tugas%20unnes/semester%203/PBO/UAS2/src/uas2/view/halamaUtama.java</file>
+            <file>file:/D:/tugas%20unnes/semester%203/PBO/UAS2/src/uas2/db/koneksi.java</file>
+            <file>file:/D:/tugas%20unnes/semester%203/PBO/UAS2/src/uas2/view/menu.java</file>
+            <file>file:/D:/tugas%20unnes/semester%203/PBO/UAS2/src/uas2/model/user.java</file>
+            <file>file:/D:/tugas%20unnes/semester%203/PBO/UAS2/src/uas2/dao/userDAO.java</file>
+            <file>file:/D:/tugas%20unnes/semester%203/PBO/UAS2/src/uas2/model/MenuJus.java</file>
+            <file>file:/D:/tugas%20unnes/semester%203/PBO/UAS2/src/uas2/dao/MenuJusDAO.java</file>
+            <file>file:/D:/tugas%20unnes/semester%203/PBO/UAS2/src/uas2/model/Transaksi.java</file>
+            <file>file:/D:/tugas%20unnes/semester%203/PBO/UAS2/src/uas2/model/DetailTransaksi.java</file>
+            <file>file:/D:/tugas%20unnes/semester%203/PBO/UAS2/src/uas2/dao/TransaksiDAO.java</file>
+            <file>file:/D:/tugas%20unnes/semester%203/PBO/UAS2/src/uas2/dao/DetailTransaksiDAO.java</file>
+            <file>file:/D:/tugas%20unnes/semester%203/PBO/UAS2/src/uas2/view/tes.java</file>
+            <file>file:/D:/tugas%20unnes/semester%203/PBO/UAS2/src/uas2/controller/TransaksiController.java</file>
+            <file>file:/D:/tugas%20unnes/semester%203/PBO/UAS2/src/uas2/model/Laporan.java</file>
+            <file>file:/D:/tugas%20unnes/semester%203/PBO/UAS2/src/uas2/view/laporan.java</file>
+            <file>file:/D:/tugas%20unnes/semester%203/PBO/UAS2/src/uas2/dao/LaporanDAO.java</file>
+            <file>file:/D:/tugas%20unnes/semester%203/PBO/UAS2/src/uas2/view/transaksi.java</file>
+            <file>file:/D:/tugas%20unnes/semester%203/PBO/UAS2/src/uas2/UAS2.java</file>
+            <file>file:/D:/tugas%20unnes/semester%203/PBO/UAS2/src/uas2/view/login.java</file>
+        </group>
+    </open-files>
+</project-private>
